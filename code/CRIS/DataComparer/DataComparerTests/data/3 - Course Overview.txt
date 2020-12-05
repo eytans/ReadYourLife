@@ -1,0 +1,18 @@
+To begin talking about this course, let's look at the learning goals.
+In this course, you will learn what operating systems are,
+why are they needed, and how are they designed and implemented.
+This will include discussion of key mechanisms and abstractions that
+operating systems must support to provide the required functionality.
+In this course, we will cover a number of topics in depth.
+In particular, we will describe the design and implementation of
+operating systems' abstractions, mechanisms, and policies related
+to several of the key types of functionality provided by operating systems.
+This includes processes and process management, threads and concurrency, and
+in general, challenges related to multithreading.
+OS functionality for managing hardware resources like CPU and memory.
+OS services for communication and I/O, which includes file I/O.
+OS support for distributed services, including remote procedure calls.
+We call those RPCMs.
+Distributed file systems, distributed shared memory.
+And we will briefly review systems software that's common in data center and
+cloud environments.

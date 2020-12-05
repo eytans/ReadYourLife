@@ -1,0 +1,27 @@
+
+0:00:08.680,0:00:10.900
+There are a number of options out there from a variety of authors.
+
+0:00:18.840,0:00:22.020
+often called the dinosaur books because of the dinosaur on the cover.
+
+0:00:32.270,0:00:36.990
+And to this one, I have personally contributed to the Linux case study chapter.
+
+0:00:45.660,0:00:47.450
+There's some free available text online.
+
+0:00:57.740,0:01:03.291
+It's called Operating Systems Three Easy Pieces.
+
+0:01:12.140,0:01:16.480
+which the lecture content is drawn.
+
+0:01:26.010,0:01:30.940
+even technology surveys.
+
+0:01:40.150,0:01:42.980
+I said that you will be required to program in C in a Linux environment and
+
+0:01:53.610,0:01:57.070
+And we'll make sure to provide links to some such content with your

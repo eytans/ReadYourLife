@@ -1,0 +1,17 @@
+Before we get started, you may have noticed these cute,
+wooden blocks on my desk.
+They belong to my daughter, but I'm borrowing them for this course.
+And during each lesson, I will illustrate some more complex concepts related to
+operating systems using a metaphor that's based on toys and a toy shop example.
+To give you a high-level idea of how this will work, we will think of
+the hardware in computer system as the toy shop with its tools and
+work spaces and storage areas.
+Then we will think of all of the processes and applications that execute on
+hardware as all of the toys that are being produced in the toy shop.
+And then central to this course will be that we will drawing be
+analogies between operating systems and
+the toy shop manager that oversees everything that's happening in the toy shop.
+This will become much clearer in the following classes.
+For now, this concludes the introduction.
+I sincerely hope you will enjoy this class.
+Good luck and have fun.

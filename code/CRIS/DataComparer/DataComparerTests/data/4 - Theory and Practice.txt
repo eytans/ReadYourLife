@@ -1,0 +1,21 @@
+To fully understand and appreciate OS internals,
+we will supplement the theoretical part of the course material with
+a practical component, and that will be a sequence of programming projects.
+The goal of these projects is to
+give you a hands-on experience with operating systems.
+For instance, you will be put face-to-face with challenges related to
+multithreading, concurrency, and synchronization.
+You will have to use operating system services for
+interaction among multiple processes on a single node, like a server machine.
+You will also have to look beyond the single node and
+prototype distributed, or multi-node services, using some of the mechanisms that
+are supported at the operating system level, like remote procedure calls.
+Finally, one key issue with operating systems design and
+implementation is the performance that they can deliver.
+You will gain experience with designing and performing experimental evaluations.
+These experiments will ideally provide you with insight into the behavior of
+the operating system so you can better understand its performance capabilities,
+overheads, limitations, or other issues.
+Each of the projects will require you to program in the C
+programming language in a Linux environment, and you will have to use some of
+the standard Linux libraries, such as Pthreads, for threads.

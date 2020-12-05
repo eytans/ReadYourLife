@@ -1,0 +1,4 @@
+The most popular operating systems are Linux Windows Android and IOS
+For each process the kernel allocates eight Kilobytes of space
+The process descriptor is held in a task struct
+In this course we will talk about memory threads virtual machines mutexes and processors 

@@ -1,0 +1,461 @@
+path , default , custom
+resources\data\P1L1_ Course Overview\1 - Introduction.srt.res , 0.25179458862506904 , 0.06219839142091153
+resources\data\P1L1_ Course Overview\2 - Why Should I Take this Course.srt.res , 0.05172413793103448 , 0.012392755004766444
+resources\data\P1L1_ Course Overview\3 - Course Overview.srt.res , 0.12015810276679842 , 0.10210696920583469
+resources\data\P1L1_ Course Overview\4 - Theory and Practice.srt.res , 0.09090909090909091 , 0.05114155251141553
+resources\data\P1L1_ Course Overview\5 - Course Materials.srt.res , 0.01198501872659176 , 0.03956723338485317
+resources\data\P1L1_ Course Overview\6 - Course Policies.srt.res , 0.008797653958944282 , 0.053631284916201116
+resources\data\P1L1_ Course Overview\7 - Visual Metaphor.srt.res , 0.01148600143575018 , 0.08257372654155495
+resources\data\P1L1_ Course Overview\8 - Your Learning Expecations.srt.res , 0.02269503546099291 , 0.0692167577413479
+resources\data\P1L2_ Introduction to Operating Systems\01 - Lesson Preview.srt.res , 0.1383177570093458 , 0.011180992313067784
+resources\data\P1L2_ Introduction to Operating Systems\02 - Visual Metaphor.srt.res , 0.0058167716917111 , 0.0029034599564481006
+resources\data\P1L2_ Introduction to Operating Systems\03 - What is an Operating System.srt.res , 0.014206437291897892 , 0.08550256507695231
+resources\data\P1L2_ Introduction to Operating Systems\04 - Operating System Definition.srt.res , 0.022244691607684528 , 0.1335676625659051
+resources\data\P1L2_ Introduction to Operating Systems\05 - Operating System Components Quiz.srt.res , 0.03292894280762565 , 0.2975871313672922
+resources\data\P1L2_ Introduction to Operating Systems\06 - Operating System Components Quiz.srt.res , 0.011369019422074847 , 0.2128069330765527
+resources\data\P1L2_ Introduction to Operating Systems\07 - Abstraction or Arbitration Quiz.srt.res , 0.2913907284768212 , 0.037914691943127965
+resources\data\P1L2_ Introduction to Operating Systems\08 - Abstraction or Arbitration Quiz.srt.res , 0.005148005148005148 , 0.042637580565195836
+resources\data\P1L2_ Introduction to Operating Systems\09 - Operating System Examples.srt.res , 0.010789980732177264 , 0.019144481005085253
+resources\data\P1L2_ Introduction to Operating Systems\10 - OS Elements.srt.res , 0.0343213728549142 , 0.21787461093819474
+resources\data\P1L2_ Introduction to Operating Systems\11 - OS Elements Example.srt.res , 0.003987240829346092 , 0.07920792079207921
+resources\data\P1L2_ Introduction to Operating Systems\12 - OS Design Principles.srt.res , 0.006156552330694811 , 0.05026256564141035
+resources\data\P1L2_ Introduction to Operating Systems\13 - OS Protection Boundary.srt.res , 0.07778849244615879 , 0.10082961072112316
+resources\data\P1L2_ Introduction to Operating Systems\14 - System Call Flowchart.srt.res , 0.12810763381105586 , 0.11733800350262696
+resources\data\P1L2_ Introduction to Operating Systems\15 - Crossing the OS Boundary.srt.res , 0.04047619047619048 , 0.2610316967060286
+resources\data\P1L2_ Introduction to Operating Systems\16 - OS Services.srt.res , 0.007476635514018692 , 0.2046783625730994
+resources\data\P1L2_ Introduction to Operating Systems\17 - System Calls Quiz.srt.res , 0.03740648379052369 , 0.1721132897603486
+resources\data\P1L2_ Introduction to Operating Systems\18 - System Calls Quiz.srt.res , 0.15140845070422534 , 0.07053941908713693
+resources\data\P1L2_ Introduction to Operating Systems\19 - Monolithic OS.srt.res , 0.025338575797291395 , 0.1881100266193434
+resources\data\P1L2_ Introduction to Operating Systems\20 - Modular OS.srt.res , 0.026286143447239955 , 0.022869789745481373
+resources\data\P1L2_ Introduction to Operating Systems\21 - Microkernel.srt.res , 0.004411116012351125 , 0.01678219627873039
+resources\data\P1L2_ Introduction to Operating Systems\22 - Linux and Mac OS Architectures.srt.res , 0.01287001287001287 , 0.06624203821656051
+resources\data\P1L2_ Introduction to Operating Systems\23 - Lesson Summary.srt.res , 0.023961661341853034 , 0.21199273167777105
+resources\data\P1L2_ Introduction to Operating Systems\24 - Lesson Review.srt.res , 0.14492753623188406 , 0.8444444444444444
+resources\data\P2L2_ Threads and Concurrency\01 - Lesson Preview.srt.res , 0.03862401931200966 , 0.407955124936257
+resources\data\P2L2_ Threads and Concurrency\02 - Visual Metaphor.srt.res , 0.05568760611205433 , 0.014806378132118452
+resources\data\P2L2_ Threads and Concurrency\03 - Process vs Thread.srt.res , 0.05268703898840885 , 0.00772499034376207
+resources\data\P2L2_ Threads and Concurrency\04 - Benefits of Multithreading.srt.res , 0.007447973713033954 , 0.0033222591362126247
+resources\data\P2L2_ Threads and Concurrency\05 - Benefits of Multithreading Single CPU.srt.res , 0.014848289218850872 , 0.27606951871657753
+resources\data\P2L2_ Threads and Concurrency\06 - Benefits of Multithreading Apps and OS.srt.res , 0.022222222222222223 , 0.27580645161290324
+resources\data\P2L2_ Threads and Concurrency\07 - Process vs Threads Quiz.srt.res , 0.037267080745341616 , 0.1745325022261799
+resources\data\P2L2_ Threads and Concurrency\08 - Process vs Threads Quiz.srt.res , 0.12130885873902633 , 0.0335946248600224
+resources\data\P2L2_ Threads and Concurrency\09 - Basic Thread Mechanisms.srt.res , 0.005254269093638581 , 0.09397944199706314
+resources\data\P2L2_ Threads and Concurrency\10 - Thread Creation.srt.res , 0.0062561094819159335 , 0.04777129960504044
+resources\data\P2L2_ Threads and Concurrency\11 - Thread Creation Example.srt.res , 0.027110766847405113 , 0.03604902667627974
+resources\data\P2L2_ Threads and Concurrency\12 - Mutexes.srt.res , 0.0070921985815602835 , 0.1279220779220779
+resources\data\P2L2_ Threads and Concurrency\13 - Mutual Exclusion.srt.res , 0.006132617861249521 , 0.13462555066079296
+resources\data\P2L2_ Threads and Concurrency\14 - Mutex Example.srt.res , 0.033547113961519485 , 0.06640625
+resources\data\P2L2_ Threads and Concurrency\15 - Mutex Quiz.srt.res , 0.07366226546212648 , 0.08695652173913043
+resources\data\P2L2_ Threads and Concurrency\16 - Mutex Quiz.srt.res , 0.0385739333722969 , 0.06400665004156277
+resources\data\P2L2_ Threads and Concurrency\17 - Producer and Consumer Example.srt.res , 0.015930485155684286 , 0.023323615160349854
+resources\data\P2L2_ Threads and Concurrency\18 - Condition Variables.srt.res , 0.008962426749396759 , 0.02220726783310902
+resources\data\P2L2_ Threads and Concurrency\19 - Condition Variable API.srt.res , 0.09033691225472047 , 0.03129794415464866
+resources\data\P2L2_ Threads and Concurrency\20 - Condition Variable Quiz.srt.res , 0.03310344827586207 , 0.175
+resources\data\P2L2_ Threads and Concurrency\21 - Condition Variable Quiz.srt.res , 0.10520163646990065 , 0.03372243839169909
+resources\data\P2L2_ Threads and Concurrency\22 - ReaderWriter Problem.srt.res , 0.0043171114599686025 , 0.00273224043715847
+resources\data\P2L2_ Threads and Concurrency\23 - Readers and Writer Example Part 1.srt.res , 0.0036621652552071412 , 0.0078089113458888375
+resources\data\P2L2_ Threads and Concurrency\24 - Readers and Writer Example Part 2.srt.res , 0.0044011317195850365 , 0.004034582132564841
+resources\data\P2L2_ Threads and Concurrency\25 - Readers and Writer Example Part 3.srt.res , 0.0028433323855558716 , 0.15741935483870967
+resources\data\P2L2_ Threads and Concurrency\26 - Critical Section Structure.srt.res , 0.0063438359061112285 , 0.006361323155216285
+resources\data\P2L2_ Threads and Concurrency\27 - Critical Section Structure with Proxy.srt.res , 0.004301075268817204 , 0.061045402518122856
+resources\data\P2L2_ Threads and Concurrency\28 - Common Pitfalls.srt.res , 0.00816326530612245 , 0.026293469041560644
+resources\data\P2L2_ Threads and Concurrency\29 - Spurious Wake Ups.srt.res , 0.007917308115240818 , 0.008735531775496833
+resources\data\P2L2_ Threads and Concurrency\30 - Deadlocks Introduction.srt.res , 0.01291248206599713 , 0.06708595387840671
+resources\data\P2L2_ Threads and Concurrency\31 - Deadlocks.srt.res , 0.0019175455417066154 , 0.010484927916120577
+resources\data\P2L2_ Threads and Concurrency\32 - Deadlocks Summary.srt.res , 0.0057126535275635534 , 0.0032397408207343412
+resources\data\P2L2_ Threads and Concurrency\33 - Critical Section Quiz.srt.res , 0.015719899964272956 , 0.04433668167648078
+resources\data\P2L2_ Threads and Concurrency\34 - Critical Section Quiz.srt.res , 0.003332222592469177 , 0.026793688597796964
+resources\data\P2L2_ Threads and Concurrency\35 - Kernel vs User-Level Threads.srt.res , 0.16131147540983606 , 0.17453891138101665
+resources\data\P2L2_ Threads and Concurrency\36 - Multithreading Models.srt.res , 0.010248681235870385 , 0.12023633677991137
+resources\data\P2L2_ Threads and Concurrency\37 - Scope of Multithreading.srt.res , 0.06470806991446634 , 0.04697986577181208
+resources\data\P2L2_ Threads and Concurrency\38 - Multithreading Patterns.srt.res , 0.10536218250235184 , 0.10191780821917808
+resources\data\P2L2_ Threads and Concurrency\39 - BossWorkers Pattern.srt.res , 0.0411275415896488 , 0.061532274281118036
+resources\data\P2L2_ Threads and Concurrency\40 - How Many Workers.srt.res , 0.01404786680541103 , 0.06678747087755631
+resources\data\P2L2_ Threads and Concurrency\41 - BossWorkers Variants.srt.res , 0.019621583742116328 , 0.07737076343717905
+resources\data\P2L2_ Threads and Concurrency\42 - Pipeline Pattern.srt.res , 0.02543450614667232 , 0.012269938650306749
+resources\data\P2L2_ Threads and Concurrency\43 - Layered Pattern.srt.res , 0.020282186948853614 , 0.06678082191780822
+resources\data\P2L2_ Threads and Concurrency\44 - Multithreading Patterns Quiz.srt.res , 0.015089959373186303 , 0.07214428857715431
+resources\data\P2L2_ Threads and Concurrency\45 - Multithreading Patterns Quiz.srt.res , 0.042335766423357665 , 0.04408303017333619
+resources\data\P2L2_ Threads and Concurrency\46 - Lesson Summary.srt.res , 0.007386888273314866 , 0.13909378292939936
+resources\data\P2L2_ Threads and Concurrency\47 - Lesson Review.srt.res , 0.02727272727272727 , 0.8444444444444444
+resources\data\P2L3_ Threads Case Study_ PThreads\01 - Lesson Preview.srt.res , 0.18864097363083165 , 0.19035997559487491
+resources\data\P2L3_ Threads Case Study_ PThreads\02 - PThread Creation.srt.res , 0.023989484061781138 , 0.009847806624888093
+resources\data\P2L3_ Threads Case Study_ PThreads\03 - Compiling PThreads.srt.res , 0.04132973944294699 , 0.01784776902887139
+resources\data\P2L3_ Threads Case Study_ PThreads\04 - PThread Creation Example 1.srt.res , 0.010575016523463317 , 0.016962220508866616
+resources\data\P2L3_ Threads Case Study_ PThreads\05 - PThread Creation Quiz 1.srt.res , 0.2923076923076923 , 0.8495575221238938
+resources\data\P2L3_ Threads Case Study_ PThreads\06 - PThread Creation Quiz 1.srt.res , 0.7687687687687688 , 0.7914110429447853
+resources\data\P2L3_ Threads Case Study_ PThreads\07 - PThread Creation Example 2.srt.res , 0.057204533189422556 , 0.03654822335025381
+resources\data\P2L3_ Threads Case Study_ PThreads\08 - PThread Creation Quiz 2.srt.res , 0.04784688995215311 , 0.8396501457725948
+resources\data\P2L3_ Threads Case Study_ PThreads\09 - PThread Creation Quiz 2.srt.res , 0.02057142857142857 , 0.08936376881981545
+resources\data\P2L3_ Threads Case Study_ PThreads\10 - PThread Creation Example 3.srt.res , 0.06501662356852604 , 0.08663366336633663
+resources\data\P2L3_ Threads Case Study_ PThreads\11 - PThread Creation Quiz 3.srt.res , 0.8465909090909091 , 0.84593837535014
+resources\data\P2L3_ Threads Case Study_ PThreads\12 - PThread Creation Quiz 3.srt.res , 0.547683923705722 , 0.1342281879194631
+resources\data\P2L3_ Threads Case Study_ PThreads\13 - PThread Mutexes.srt.res , 0.007240853658536586 , 0.015253636041149344
+resources\data\P2L3_ Threads Case Study_ PThreads\14 - PThread Condition Variables.srt.res , 0.03485254691689008 , 0.015996445234392358
+resources\data\P2L3_ Threads Case Study_ PThreads\15 - Producer and Consumer Example Part 1.srt.res , 0.007339449541284404 , 0.03365384615384615
+resources\data\P2L3_ Threads Case Study_ PThreads\16 - Producer and Consumer Example Part 2.srt.res , 0.04576538663861126 , 0.021052631578947368
+resources\data\P2L3_ Threads Case Study_ PThreads\17 - Producer and Consumer Example Part 3.srt.res , 0.008452192287374538 , 0.0032550569634968614
+resources\data\P2L3_ Threads Case Study_ PThreads\18 - Lesson Summary.srt.res , 0.005176876617773943 , 0.04784688995215311
+resources\data\P2L3_ Threads Case Study_ PThreads\19 - Lesson Review.srt.res , 0.8848484848484849 , 0.8444444444444444
+resources\data\P2L4_ Thread Design Considerations\01 - Lesson Preview.srt.res , 0.0746054519368723 , 0.13751375137513752
+resources\data\P2L4_ Thread Design Considerations\02 - Kernel vs User Level Threads.srt.res , 0.0748074807480748 , 0.03465931469082316
+resources\data\P2L4_ Thread Design Considerations\03 - Thread Data Structures Single CPU.srt.res , 0.03441376550620248 , 0.14858199753390874
+resources\data\P2L4_ Thread Design Considerations\04 - Thread Data Structures At Scale.srt.res , 0.02904162633107454 , 0.009269162210338681
+resources\data\P2L4_ Thread Design Considerations\05 - Hard and Light Process State.srt.res , 0.009696969696969697 , 0.12833723653395784
+resources\data\P2L4_ Thread Design Considerations\06 - Rationale for Data Structures.srt.res , 0.0037174721189591076 , 0.03447195236602946
+resources\data\P2L4_ Thread Design Considerations\07 - Thread Structures Quiz.srt.res , 0.015625 , 0.09954158480681075
+resources\data\P2L4_ Thread Design Considerations\08 - Thread Structures Quiz.srt.res , 0.011220196353436185 , 0.03794799718903725
+resources\data\P2L4_ Thread Design Considerations\09 - User Level Structures in Solaris 20.srt.res , 0.007793653739098163 , 0.0025655121861828845
+resources\data\P2L4_ Thread Design Considerations\10 - Kernel Level Structures in Solaris 20.srt.res , 0.05518805518805519 , 0.001676727028839705
+resources\data\P2L4_ Thread Design Considerations\11 - Basic Thread Management Interaction.srt.res , 0.018034682080924857 , 0.005311542390194076
+resources\data\P2L4_ Thread Design Considerations\12 - PThread Concurrency Quiz.srt.res , 0.02254791431792559 , 0.1522601110229976
+resources\data\P2L4_ Thread Design Considerations\13 - PThread Concurrency Quiz.srt.res , 0.07760532150776053 , 0.19865319865319866
+resources\data\P2L4_ Thread Design Considerations\14 - Thread Management Visibilty and Design.srt.res , 0.02541589648798521 , 0.06432633849774466
+resources\data\P2L4_ Thread Design Considerations\15 - Issues on Multiple CPUs.srt.res , 0.035211267605633804 , 0.05994411988823978
+resources\data\P2L4_ Thread Design Considerations\16 - Synchronization-Related Issues.srt.res , 0.031451036454610434 , 0.09472595656670114
+resources\data\P2L4_ Thread Design Considerations\17 - Number of Threads Quiz.srt.res , 0.09234234234234234 , 0.028875379939209727
+resources\data\P2L4_ Thread Design Considerations\18 - Number of Threads Quiz.srt.res , 0.2805755395683453 , 0.08775981524249422
+resources\data\P2L4_ Thread Design Considerations\19 - Interrupts and Signals Intro.srt.res , 0.04193709435846231 , 0.11917876815222835
+resources\data\P2L4_ Thread Design Considerations\20 - Visual Metaphor.srt.res , 0.02676111767020858 , 0.020384163073304585
+resources\data\P2L4_ Thread Design Considerations\21 - Interrupt Handling.srt.res , 0.020066889632107024 , 0.13399503722084366
+resources\data\P2L4_ Thread Design Considerations\22 - Signal Handling.srt.res , 0.06448087431693988 , 0.017438692098092644
+resources\data\P2L4_ Thread Design Considerations\23 - Why Disable Interrupts or Signals.srt.res , 0.009941646855413875 , 0.02320185614849188
+resources\data\P2L4_ Thread Design Considerations\24 - More on Signal Masks.srt.res , 0.271875 , 0.1460415065334358
+resources\data\P2L4_ Thread Design Considerations\25 - Interrupts on Multicore Systems.srt.res , 0.03409836065573771 , 0.26682001150086254
+resources\data\P2L4_ Thread Design Considerations\26 - Types of Signals.srt.res , 0.004790419161676647 , 0.011455847255369928
+resources\data\P2L4_ Thread Design Considerations\27 - Signals Quiz.srt.res , 0.014906832298136646 , 0.09572301425661914
+resources\data\P2L4_ Thread Design Considerations\28 - Signals Quiz.srt.res , 0.022744503411675512 , 0.03899268887083672
+resources\data\P2L4_ Thread Design Considerations\29 - Interrupts as Threads.srt.res , 0.007267441860465116 , 0.03811294445735534
+resources\data\P2L4_ Thread Design Considerations\30 - Interrupts Top vs Bottom Half.srt.res , 0.006174745291756715 , 0.05405405405405406
+resources\data\P2L4_ Thread Design Considerations\31 - Performance of Threads as Interrupts.srt.res , 0.003946719289590528 , 0.10744580584354382
+resources\data\P2L4_ Thread Design Considerations\32 - Threads and Signal Handling.srt.res , 0.006756756756756757 , 0.08376470588235294
+resources\data\P2L4_ Thread Design Considerations\33 - Threads and Signal Handling Case 1.srt.res , 0.010889292196007259 , 0.10845295055821372
+resources\data\P2L4_ Thread Design Considerations\34 - Threads and Signal Handling Case 2.srt.res , 0.01292929292929293 , 0.007104795737122558
+resources\data\P2L4_ Thread Design Considerations\35 - Threads and Signal Handling Case 3.srt.res , 0.013838013838013839 , 0.000819672131147541
+resources\data\P2L4_ Thread Design Considerations\36 - Threads and Signal Handling Case 4.srt.res , 0.03245795219828858 , 0.03028083028083028
+resources\data\P2L4_ Thread Design Considerations\37 - Tasks in Linux.srt.res , 0.0037966101694915256 , 0.02784844021957424
+resources\data\P2L4_ Thread Design Considerations\38 - Lesson Summary.srt.res , 0.01771479185119575 , 0.1704422869471413
+resources\data\P2L4_ Thread Design Considerations\39 - Lesson Review.srt.res , 0.02823018458197611 , 0.8444444444444444
+resources\data\P2L5_ Thread Performance Considerations\01 - Lesson Preview.srt.res , 0.12449799196787148 , 0.2235225277940316
+resources\data\P2L5_ Thread Performance Considerations\02 - Which Threading Model is Better.srt.res , 0.008042328042328042 , 0.040687919463087245
+resources\data\P2L5_ Thread Performance Considerations\03 - Are Threads Useful.srt.res , 0.00590493061706525 , 0.1522921522921523
+resources\data\P2L5_ Thread Performance Considerations\04 - Visual Metaphor.srt.res , 0.010135135135135136 , 0.05320033250207814
+resources\data\P2L5_ Thread Performance Considerations\05 - Performance Metrics Intro.srt.res , 0.02609262883235486 , 0.23787033061399743
+resources\data\P2L5_ Thread Performance Considerations\06 - Performance Metrics.srt.res , 0.010432190760059613 , 0.05793495645992536
+resources\data\P2L5_ Thread Performance Considerations\07 - Performance Metrics Summary.srt.res , 0.011530398322851153 , 0.05487228003784295
+resources\data\P2L5_ Thread Performance Considerations\08 - Really Are Threads Useful.srt.res , 0.00907617504051864 , 0.0016433853738701725
+resources\data\P2L5_ Thread Performance Considerations\09 - Multi Process vs Multi Threaded.srt.res , 0.003093102381688834 , 0.023961661341853034
+resources\data\P2L5_ Thread Performance Considerations\10 - Multi Process Web Server.srt.res , 0.055636896046852125 , 0.02999516207063377
+resources\data\P2L5_ Thread Performance Considerations\11 - Multi Threaded Web Server.srt.res , 0.012493993272465162 , 0.03175723359209598
+resources\data\P2L5_ Thread Performance Considerations\12 - Event-Driven Model.srt.res , 0.009074410163339383 , 0.003861003861003861
+resources\data\P2L5_ Thread Performance Considerations\13 - Concurrency in the Event Driven Model.srt.res , 0.011579285944033452 , 0.06637649619151251
+resources\data\P2L5_ Thread Performance Considerations\14 - Event-Driven Model Why.srt.res , 0.0037476577139287947 , 0.14814814814814814
+resources\data\P2L5_ Thread Performance Considerations\15 - Event-Driven Model How.srt.res , 0.055572154167911565 , 0.011351909184726523
+resources\data\P2L5_ Thread Performance Considerations\16 - Helper Threads and Processes.srt.res , 0.03513770180436847 , 0.0040172166427546625
+resources\data\P2L5_ Thread Performance Considerations\17 - Models and Memory Quiz.srt.res , 0.1640625 , 0.1360381861575179
+resources\data\P2L5_ Thread Performance Considerations\18 - Models and Memory Quiz.srt.res , 0.059134107708553325 , 0.08536585365853659
+resources\data\P2L5_ Thread Performance Considerations\19 - Flash Web Server.srt.res , 0.028970512157268494 , 0.012744451768842013
+resources\data\P2L5_ Thread Performance Considerations\20 - Apache Web Server.srt.res , 0.022356776897997206 , 0.039631021523744446
+resources\data\P2L5_ Thread Performance Considerations\21 - Experimental Methodology.srt.res , 0.03234836702954899 , 0.010998307952622674
+resources\data\P2L5_ Thread Performance Considerations\22 - Experimental Results.srt.res , 0.02178466694595727 , 0.030575539568345324
+resources\data\P2L5_ Thread Performance Considerations\23 - Summary of Performance Results.srt.res , 0.027052238805970148 , 0.005695687550854353
+resources\data\P2L5_ Thread Performance Considerations\24 - Performance Observation Quiz.srt.res , 0.03134796238244514 , 0.12560386473429952
+resources\data\P2L5_ Thread Performance Considerations\25 - Performance Observation Quiz.srt.res , 0.015246636771300448 , 0.029850746268656716
+resources\data\P2L5_ Thread Performance Considerations\26 - Advice on Designing Experiments.srt.res , 0.0012819143253925862 , 0.04019138755980861
+resources\data\P2L5_ Thread Performance Considerations\27 - Advice on Running Experiments.srt.res , 0.019522776572668113 , 0.027
+resources\data\P2L5_ Thread Performance Considerations\28 - Experimental Design Quiz.srt.res , 0.019642857142857142 , 0.07986960065199673
+resources\data\P2L5_ Thread Performance Considerations\29 - Experimental Design Quiz.srt.res , 0.056030669419050425 , 0.0156824307767704
+resources\data\P2L5_ Thread Performance Considerations\30 - Lesson Summary.srt.res , 0.06504065040650407 , 0.019801980198019802
+resources\data\P2L5_ Thread Performance Considerations\31 - Lesson Review.srt.res , 0.8848484848484849 , 0.0125
+resources\data\P3L2_ Memory Management\01 - Lesson Preview.srt.res , 0.2815884476534296 , 0.012358393408856848
+resources\data\P3L2_ Memory Management\02 - Visual Metaphor.srt.res , 0.029550033579583614 , 0.004484304932735426
+resources\data\P3L2_ Memory Management\03 - Memory Management Goals.srt.res , 0.0055717054263565895 , 0.004042806183115339
+resources\data\P3L2_ Memory Management\04 - Memory Management Hardware Support.srt.res , 0.006098991320666197 , 0.0036068530207394047
+resources\data\P3L2_ Memory Management\05 - Page Tables.srt.res , 0.0037968675842429997 , 0.006169031462060457
+resources\data\P3L2_ Memory Management\06 - Page Table Entry.srt.res , 0.008095238095238095 , 0.006889763779527559
+resources\data\P3L2_ Memory Management\07 - Page Table Size.srt.res , 0.022813688212927757 , 0.01585288522511097
+resources\data\P3L2_ Memory Management\08 - Multi Level Page Tables.srt.res , 0.0030665440049064702 , 0.007413127413127413
+resources\data\P3L2_ Memory Management\09 - Multi Level Page Table Quiz.srt.res , 0.015915119363395226 , 0.02179379715004191
+resources\data\P3L2_ Memory Management\10 - Multi Level Page Table Quiz.srt.res , 0.011137629276054098 , 0.03511705685618729
+resources\data\P3L2_ Memory Management\11 - Speeding Up Translation  TLB.srt.res , 0.008639308855291577 , 0.0029850746268656717
+resources\data\P3L2_ Memory Management\12 - Inverted Page Tables.srt.res , 0.010775217000897935 , 0.0029682398337785693
+resources\data\P3L2_ Memory Management\13 - Segmentation.srt.res , 0.00961153384060873 , 0.021420921099607283
+resources\data\P3L2_ Memory Management\14 - Page Size.srt.res , 0.002916869227029655 , 0.006779661016949152
+resources\data\P3L2_ Memory Management\15 - Page Table Size Quiz.srt.res , 0.0049382716049382715 , 0.008077544426494346
+resources\data\P3L2_ Memory Management\16 - Page Table Size Quiz.srt.res , 0.00791295746785361 , 0.0012987012987012987
+resources\data\P3L2_ Memory Management\17 - Memory Allocation.srt.res , 0.007203667321545514 , 0.01336044147545745
+resources\data\P3L2_ Memory Management\18 - Memory Allocation Challenges.srt.res , 0.004246284501061571 , 0.007827788649706457
+resources\data\P3L2_ Memory Management\19 - Linux Kernel Allocators.srt.res , 0.0060790273556231 , 0.002999062792877226
+resources\data\P3L2_ Memory Management\20 - Demand Paging.srt.res , 0.009551098376313277 , 0.002357100766057749
+resources\data\P3L2_ Memory Management\21 - Page Replacement.srt.res , 0.0023277467411545625 , 0.0027266530334014998
+resources\data\P3L2_ Memory Management\22 - Least Recently Used LRU Quiz.srt.res , 0.025373134328358207 , 0.005939123979213066
+resources\data\P3L2_ Memory Management\23 - Least Recently Used LRU Quiz.srt.res , 0.008791208791208791 , 0.009527934170636639
+resources\data\P3L2_ Memory Management\24 - Copy On Write.srt.res , 0.006137061029662462 , 0.014575411913814956
+resources\data\P3L2_ Memory Management\25 - Failure Management  Checkpointing.srt.res , 0.012048192771084338 , 0.004228329809725159
+resources\data\P3L2_ Memory Management\26 - Checkpointing Quiz.srt.res , 0.021929824561403508 , 0.008818342151675485
+resources\data\P3L2_ Memory Management\27 - Checkpointing Quiz.srt.res , 0.08983717012914093 , 0.008413967185527976
+resources\data\P3L2_ Memory Management\28 - Lesson Summary.srt.res , 0.12250332889480692 , 0.005706134094151213
+resources\data\P3L2_ Memory Management\29 - Lesson Review.srt.res , 0.02711864406779661 , 0.014973262032085561
+resources\data\P3L3_ Inter-Process Communication\01 - Lesson Preview.srt.res , 0.028070175438596492 , 0.03697996918335902
+resources\data\P3L3_ Inter-Process Communication\02 - Visual Metaphor.srt.res , 0.014302741358760428 , 0.009848484848484848
+resources\data\P3L3_ Inter-Process Communication\03 - Inter Process Communication.srt.res , 0.004840661557079467 , 0.07360936846507737
+resources\data\P3L3_ Inter-Process Communication\04 - Message Based IPC.srt.res , 0.011532125205930808 , 0.0767289247854619
+resources\data\P3L3_ Inter-Process Communication\05 - Forms of Message Passing.srt.res , 0.01039671682626539 , 0.060782411897833816
+resources\data\P3L3_ Inter-Process Communication\06 - Shared Memory IPC.srt.res , 0.00398406374501992 , 0.006029049054535489
+resources\data\P3L3_ Inter-Process Communication\07 - IPC Comparison Quiz.srt.res , 0.003734827264239029 , 0.020239190432382703
+resources\data\P3L3_ Inter-Process Communication\08 - IPC Comparison Quiz.srt.res , 0.029831387808041506 , 0.010558069381598794
+resources\data\P3L3_ Inter-Process Communication\09 - Copy vs Map.srt.res , 0.0029985007496251873 , 0.06997084548104957
+resources\data\P3L3_ Inter-Process Communication\10 - SysV Shared Memory.srt.res , 0.003991020204539786 , 0.0028066236317709796
+resources\data\P3L3_ Inter-Process Communication\11 - SysV Shared Memory API.srt.res , 0.005398110661268556 , 0.004786979415988511
+resources\data\P3L3_ Inter-Process Communication\12 - POSIX Shared Memory API.srt.res , 0.07973695026715988 , 0.003234152652005175
+resources\data\P3L3_ Inter-Process Communication\13 - Shared Memory and Sync.srt.res , 0.009963768115942028 , 0.0016556291390728477
+resources\data\P3L3_ Inter-Process Communication\14 - PThreads Sync for IPC.srt.res , 0.00796812749003984 , 0.005350895245935378
+resources\data\P3L3_ Inter-Process Communication\15 - Sync for Other IPC.srt.res , 0.005175600739371534 , 0.009216589861751152
+resources\data\P3L3_ Inter-Process Communication\16 - Message Queue Quiz.srt.res , 0.013771996939556235 , 0.009426551453260016
+resources\data\P3L3_ Inter-Process Communication\17 - Message Queue Quiz.srt.res , 0.017797552836484983 , 0.010025062656641603
+resources\data\P3L3_ Inter-Process Communication\18 - IPC Command Line Tools.srt.res , 0.013657056145675266 , 0.02606806661839247
+resources\data\P3L3_ Inter-Process Communication\19 - Shared Mem Design Considerations.srt.res , 0.007686395080707148 , 0.018575851393188854
+resources\data\P3L3_ Inter-Process Communication\20 - How Many Segments.srt.res , 0.015468607825295723 , 0.002287021154945683
+resources\data\P3L3_ Inter-Process Communication\21 - Design Considerations.srt.res , 0.10897435897435898 , 0.0358945597307908
+resources\data\P3L3_ Inter-Process Communication\22 - Lesson Summary.srt.res , 0.0032679738562091504 , 0.011484823625922888
+resources\data\P3L3_ Inter-Process Communication\23 - Lesson Review.srt.res , 0.0419047619047619 , 0.01799775028121485
+resources\data\P3L4_ Synchronization Constructs\01 - Lesson Preview.srt.res , 0.09287925696594428 , 0.22381262199089136
+resources\data\P3L4_ Synchronization Constructs\02 - Visual Metaphor.srt.res , 0.006172839506172839 , 0.03880704275961193
+resources\data\P3L4_ Synchronization Constructs\03 - More About Synchronization.srt.res , 0.00273224043715847 , 0.014472777394900068
+resources\data\P3L4_ Synchronization Constructs\04 - Spinlocks.srt.res , 0.07735946364105209 , 0.015873015873015872
+resources\data\P3L4_ Synchronization Constructs\05 - Semaphores.srt.res , 0.04990253411306043 , 0.011107682813946312
+resources\data\P3L4_ Synchronization Constructs\06 - POSIX Semaphores.srt.res , 0.014073494917904612 , 0.007739938080495356
+resources\data\P3L4_ Synchronization Constructs\07 - Mutex Via Semaphore Quiz.srt.res , 0.058666666666666666 , 0.01948627103631532
+resources\data\P3L4_ Synchronization Constructs\08 - Mutex Via Semaphore Quiz.srt.res , 0.011121408711770158 , 0.02247191011235955
+resources\data\P3L4_ Synchronization Constructs\09 - Reader Writer Locks.srt.res , 0.03463758819756254 , 0.022263450834879406
+resources\data\P3L4_ Synchronization Constructs\10 - Using Reader Writer Locks.srt.res , 0.007082538817760828 , 0.00883912787271656
+resources\data\P3L4_ Synchronization Constructs\11 - Monitors.srt.res , 0.01516245487364621 , 0.011879507848960543
+resources\data\P3L4_ Synchronization Constructs\12 - More Synchronization Constructs.srt.res , 0.008888888888888889 , 0.010585305105853052
+resources\data\P3L4_ Synchronization Constructs\13 - Sync Building Block  Spinlock.srt.res , 0.014986376021798364 , 0.0138801261829653
+resources\data\P3L4_ Synchronization Constructs\14 - Spinlock Quiz 1.srt.res , 0.02506265664160401 , 0.0075
+resources\data\P3L4_ Synchronization Constructs\15 - Spinlock Quiz 1.srt.res , 0.023391812865497075 , 0.01348314606741573
+resources\data\P3L4_ Synchronization Constructs\16 - Spinlock Quiz 2.srt.res , 0.16568047337278108 , 0.01224177505738332
+resources\data\P3L4_ Synchronization Constructs\17 - Spinlock Quiz 2.srt.res , 0.01762114537444934 , 0.008470089994706194
+resources\data\P3L4_ Synchronization Constructs\18 - Need for Hardware Support.srt.res , 0.027598896044158234 , 0.005722460658082976
+resources\data\P3L4_ Synchronization Constructs\19 - Atomic Instructions.srt.res , 0.003148366784730421 , 0.0043171114599686025
+resources\data\P3L4_ Synchronization Constructs\20 - Shared Memory Multiprocessors.srt.res , 0.007616146230007616 , 0.0053106744556558685
+resources\data\P3L4_ Synchronization Constructs\21 - Cache Coherence.srt.res , 0.05221648082676095 , 0.0037313432835820895
+resources\data\P3L4_ Synchronization Constructs\22 - Cache Coherence and Atomics.srt.res , 0.010146561443066516 , 0.0026917900403768506
+resources\data\P3L4_ Synchronization Constructs\23 - Spinlock Performance Metrics.srt.res , 0.012057272042200452 , 0.012953367875647668
+resources\data\P3L4_ Synchronization Constructs\24 - Conflicting Metrics Quiz.srt.res , 0.018691588785046728 , 0.027692307692307693
+resources\data\P3L4_ Synchronization Constructs\25 - Conflicting Metrics Quiz.srt.res , 0.02289156626506024 , 0.014002333722287048
+resources\data\P3L4_ Synchronization Constructs\26 - Test and Set Spinlock.srt.res , 0.052964188985856156 , 0.00849787553111722
+resources\data\P3L4_ Synchronization Constructs\27 - Test and Test and Set Spinlock.srt.res , 0.0021082220660576245 , 0.002466091245376079
+resources\data\P3L4_ Synchronization Constructs\28 - Test and Test and Set Spinlock Quiz.srt.res , 0.00683371298405467 , 0.006158583525789068
+resources\data\P3L4_ Synchronization Constructs\29 - Test and Test and Set Spinlock Quiz.srt.res , 0.013916500994035786 , 0.004409171075837742
+resources\data\P3L4_ Synchronization Constructs\30 - Spinlock Delay Alternatives.srt.res , 0.004945054945054945 , 0.0067973856209150325
+resources\data\P3L4_ Synchronization Constructs\31 - Picking a Delay.srt.res , 0.003793010024383636 , 0.008680112330865459
+resources\data\P3L4_ Synchronization Constructs\32 - Queueing Lock.srt.res , 0.00529723366686286 , 0.010780287474332649
+resources\data\P3L4_ Synchronization Constructs\33 - Queueing Lock Implementation.srt.res , 0.0037112636852848395 , 0.005567928730512249
+resources\data\P3L4_ Synchronization Constructs\34 - Queueing Lock Array Quiz.srt.res , 0.027455121436114043 , 0.027422303473491772
+resources\data\P3L4_ Synchronization Constructs\35 - Queueing Lock Array Quiz.srt.res , 0.0273972602739726 , 0.011656952539550375
+resources\data\P3L4_ Synchronization Constructs\36 - Spinlock Performance Comparisons.srt.res , 0.0006663334999167084 , 0.00702576112412178
+resources\data\P3L4_ Synchronization Constructs\37 - Lesson Summary.srt.res , 0.04906542056074766 , 0.029232643118148598
+resources\data\P3L4_ Synchronization Constructs\38 - Lesson Review.srt.res , 0.8789808917197452 , 0.01910828025477707
+resources\data\P3L5-iO Management Videos\01 - Lesson Preview.srt.res , 0.09537166900420757 , 0.009259259259259259
+resources\data\P3L5-iO Management Videos\02 - Visual Metaphor.srt.res , 0.007360321177651389 , 0.006407974368102528
+resources\data\P3L5-iO Management Videos\03 - IO Devices.srt.res , 0.02112676056338028 , 0.012720848056537103
+resources\data\P3L5-iO Management Videos\04 - IO Devices Quiz.srt.res , 0.020161290322580645 , 0.015748031496062992
+resources\data\P3L5-iO Management Videos\05 - IO Devices Quiz.srt.res , 0.008718395815170008 , 0.05245901639344262
+resources\data\P3L5-iO Management Videos\06 - IO Device Features.srt.res , 0.007258064516129033 , 0.0061162079510703364
+resources\data\P3L5-iO Management Videos\07 - CPU Device Interconnect.srt.res , 0.009040683073832245 , 0.0144014401440144
+resources\data\P3L5-iO Management Videos\08 - Device Drivers.srt.res , 0.0032123353678123997 , 0.007936507936507936
+resources\data\P3L5-iO Management Videos\09 - Types of Devices.srt.res , 0.003656307129798903 , 0.02397149335924846
+resources\data\P3L5-iO Management Videos\10 - IO Devices as Files Quiz.srt.res , 0.021486123545210387 , 0.01875532821824382
+resources\data\P3L5-iO Management Videos\11 - IO Devices as Files Quiz.srt.res , 0.014450867052023121 , 0.02002503128911139
+resources\data\P3L5-iO Management Videos\12 - Pseudo Devices Quiz.srt.res , 0.008821676118462508 , 0.03134796238244514
+resources\data\P3L5-iO Management Videos\13 - Pseudo Devices Quiz.srt.res , 0.0224159402241594 , 0.05571847507331378
+resources\data\P3L5-iO Management Videos\14 - Looking at Dev Quiz.srt.res , 0.03721841332027424 , 0.16267942583732056
+resources\data\P3L5-iO Management Videos\15 - Looking at Dev Quiz.srt.res , 0.03383084577114428 , 0.01627906976744186
+resources\data\P3L5-iO Management Videos\16 - CPU Device Interactions.srt.res , 0.004409603135717786 , 0.1326554194592096
+resources\data\P3L5-iO Management Videos\17 - Device Access  PIO.srt.res , 0.010405053883314752 , 0.21902654867256638
+resources\data\P3L5-iO Management Videos\18 - Device Access  DMA.srt.res , 0.04072727272727273 , 0.04044548651817116
+resources\data\P3L5-iO Management Videos\19 - DMA vs PIO Quiz.srt.res , 0.10909090909090909 , 0.15348101265822786
+resources\data\P3L5-iO Management Videos\20 - DMA vs PIO Quiz.srt.res , 0.11099899091826437 , 0.074719800747198
+resources\data\P3L5-iO Management Videos\21 - Typical Device Access.srt.res , 0.00605831124574025 , 0.04294079375406636
+resources\data\P3L5-iO Management Videos\22 - OS Bypass.srt.res , 0.03495233772128915 , 0.02156549520766773
+resources\data\P3L5-iO Management Videos\23 - Sync vs Async Access.srt.res , 0.06017191977077364 , 0.09550561797752809
+resources\data\P3L5-iO Management Videos\24 - Block Device Stack.srt.res , 0.004122766834631242 , 0.008573178199632579
+resources\data\P3L5-iO Management Videos\25 - Block Device Quiz.srt.res , 0.006382978723404255 , 0.019490254872563718
+resources\data\P3L5-iO Management Videos\26 - Block Device Quiz.srt.res , 0.026446280991735537 , 0.03026481715006305
+resources\data\P3L5-iO Management Videos\27 - Virtual File System.srt.res , 0.10132412204951065 , 0.011771000535045479
+resources\data\P3L5-iO Management Videos\28 - Virtual File System Abstractions.srt.res , 0.05085176709890669 , 0.0017395085888236572
+resources\data\P3L5-iO Management Videos\29 - VFS on Disk.srt.res , 0.012121212121212121 , 0.035838725734196115
+resources\data\P3L5-iO Management Videos\30 - ext2  Second Extended Filesystem.srt.res , 0.04569796501249554 , 0.005680204487361545
+resources\data\P3L5-iO Management Videos\31 - inodes.srt.res , 0.01466275659824047 , 0.012983500135244793
+resources\data\P3L5-iO Management Videos\32 - inodes with Indirect Pointers.srt.res , 0.015006002400960384 , 0.004557106237539163
+resources\data\P3L5-iO Management Videos\33 - inode Quiz.srt.res , 0.04071246819338423 , 0.037162162162162164
+resources\data\P3L5-iO Management Videos\34 - inode Quiz.srt.res , 0.007627118644067797 , 0.017798594847775177
+resources\data\P3L5-iO Management Videos\35 - Disk Access Optimizations.srt.res , 0.026235652377605997 , 0.002797202797202797
+resources\data\P3L5-iO Management Videos\36 - Lesson Summary.srt.res , 0.030303030303030304 , 0.01399825021872266
+resources\data\P3L5-iO Management Videos\37 - Lesson Review.srt.res , 0.28448275862068967 , 0.007736943907156673
+resources\data\P3L6_ Virtualization\01 - Lesson Preview.srt.res , 0.019133370849746763 , 0.053772766695576756
+resources\data\P3L6_ Virtualization\02 - What is Virtualization.srt.res , 0.019581363943281565 , 0.006199147617202635
+resources\data\P3L6_ Virtualization\03 - Defining Virtualization.srt.res , 0.009179575444635685 , 0.02551521099116781
+resources\data\P3L6_ Virtualization\04 - Virtualization Tech Quiz.srt.res , 0.03183023872679045 , 0.04411764705882353
+resources\data\P3L6_ Virtualization\05 - Virtualization Tech Quiz.srt.res , 0.06956521739130435 , 0.01643835616438356
+resources\data\P3L6_ Virtualization\06 - Benefits of Virtualization.srt.res , 0.005508262393590386 , 0.00808489135927236
+resources\data\P3L6_ Virtualization\07 - Benefits of Virtualization Quiz 1.srt.res , 0.01633605600933489 , 0.047225501770956316
+resources\data\P3L6_ Virtualization\08 - Benefits of Virtualization Quiz 1.srt.res , 0.014652014652014652 , 0.03063178047223995
+resources\data\P3L6_ Virtualization\09 - Benefits of Virtualization Quiz 2.srt.res , 0.13924050632911392 , 0.0021810250817884407
+resources\data\P3L6_ Virtualization\10 - Benefits of Virtualization Quiz 2.srt.res , 0.013276434329065908 , 0.0025041736227045075
+resources\data\P3L6_ Virtualization\11 - Virtualization Models  Bare Metal.srt.res , 0.03980099502487562 , 0.004511617414843221
+resources\data\P3L6_ Virtualization\12 - Virtualization Models  Hosted.srt.res , 0.003054212267752609 , 0.0004784688995215311
+resources\data\P3L6_ Virtualization\13 - Bare Metal or Hosted Quiz.srt.res , 0.12389380530973451 , 0.015885623510722795
+resources\data\P3L6_ Virtualization\14 - Bare Metal or Hosted Quiz.srt.res , 0.03485254691689008 , 0.017994858611825194
+resources\data\P3L6_ Virtualization\15 - Virtualization Requirements Quiz.srt.res , 0.14188267394270124 , 0.022988505747126436
+resources\data\P3L6_ Virtualization\16 - Virtualization Requirements Quiz.srt.res , 0.07923269391159299 , 0.0038580246913580245
+resources\data\P3L6_ Virtualization\17 - Hardware Protection Levels.srt.res , 0.0022889842632331904 , 0.006341885269530124
+resources\data\P3L6_ Virtualization\18 - Processor Virtualization.srt.res , 0.010190217391304348 , 0.01148691767708998
+resources\data\P3L6_ Virtualization\19 - x86 Virtualization in the Past.srt.res , 0.0029651593773165306 , 0.00947268708556994
+resources\data\P3L6_ Virtualization\20 - Problematic Instructions Quiz.srt.res , 0.01694915254237288 , 0.00644122383252818
+resources\data\P3L6_ Virtualization\21 - Problematic Instructions Quiz.srt.res , 0.05296610169491525 , 0.038461538461538464
+resources\data\P3L6_ Virtualization\22 - Binary Translation.srt.res , 0.003727865796831314 , 0.0055542698449433
+resources\data\P3L6_ Virtualization\23 - Paravirtualization.srt.res , 0.005905511811023622 , 0.02561576354679803
+resources\data\P3L6_ Virtualization\24 - BT and PV Quiz.srt.res , 0.029545454545454545 , 0.011131725417439703
+resources\data\P3L6_ Virtualization\25 - BT and PV Quiz.srt.res , 0.015957446808510637 , 0.01951219512195122
+resources\data\P3L6_ Virtualization\26 - Memory Virtualization  Full.srt.res , 0.0061000406669377795 , 0.0038580246913580245
+resources\data\P3L6_ Virtualization\27 - Memory Virtualization  Paravirtualized.srt.res , 0.0066298342541436465 , 0.008626887131560028
+resources\data\P3L6_ Virtualization\28 - Device Virtualization.srt.res , 0.004895960832313341 , 0.0039856516540454365
+resources\data\P3L6_ Virtualization\29 - Passthrough Model.srt.res , 0.002128225591912743 , 0.0011418783899514702
+resources\data\P3L6_ Virtualization\30 - Hypervisor Direct Model.srt.res , 0.015656909462219197 , 0.008003201280512205
+resources\data\P3L6_ Virtualization\31 - Split Device Driver Model.srt.res , 0.003054212267752609 , 0.010635603950367181
+resources\data\P3L6_ Virtualization\32 - Hardware Virtualization.srt.res , 0.009186351706036745 , 0.002591093117408907
+resources\data\P3L6_ Virtualization\33 - Hardware Virtualization Quiz.srt.res , 0.21717171717171718 , 0.3053435114503817
+resources\data\P3L6_ Virtualization\34 - Hardware Virtualization Quiz.srt.res , 0.0240343347639485 , 0.10606060606060606
+resources\data\P3L6_ Virtualization\35 - x86 VT Revolution.srt.res , 0.018109380659181457 , 0.03625576796308504
+resources\data\P3L6_ Virtualization\36 - Lesson Summary.srt.res , 0.01607142857142857 , 0.03418803418803419
+resources\data\P3L6_ Virtualization\37 - Lesson Review.srt.res , 0.021778584392014518 , 0.8553846153846154
+resources\data\P4L1_ Remote Procedure Calls\01 - Lesson Preview.srt.res , 0.14501510574018128 , 0.01800450112528132
+resources\data\P4L1_ Remote Procedure Calls\02 - Why RPC.srt.res , 0.010315533980582525 , 0.04330708661417323
+resources\data\P4L1_ Remote Procedure Calls\03 - Benefits of RPC.srt.res , 0.06519654841802493 , 0.013675213675213675
+resources\data\P4L1_ Remote Procedure Calls\04 - RPC Requirements.srt.res , 0.07851384507535927 , 0.032406481296259254
+resources\data\P4L1_ Remote Procedure Calls\05 - Structure of RPC.srt.res , 0.004980906524987548 , 0.017595307917888565
+resources\data\P4L1_ Remote Procedure Calls\06 - Steps in RPC.srt.res , 0.01157590107866351 , 0.004103616311874839
+resources\data\P4L1_ Remote Procedure Calls\07 - Interface Definition Language.srt.res , 0.01938610662358643 , 0.07750472589792061
+resources\data\P4L1_ Remote Procedure Calls\08 - Specifying an IDL.srt.res , 0.012062726176115802 , 0.01155802126675913
+resources\data\P4L1_ Remote Procedure Calls\09 - Marshalling.srt.res , 0.006238303181534623 , 0.056375838926174496
+resources\data\P4L1_ Remote Procedure Calls\10 - Unmarshalling.srt.res , 0.014462809917355372 , 0.009887005649717515
+resources\data\P4L1_ Remote Procedure Calls\11 - Binding and Registry.srt.res , 0.014864864864864866 , 0.011228533685601057
+resources\data\P4L1_ Remote Procedure Calls\12 - Visual Metaphor.srt.res , 0.013016596160104133 , 0.00733822548365577
+resources\data\P4L1_ Remote Procedure Calls\13 - Pointers in RPCs.srt.res , 0.008368200836820083 , 0.003952569169960474
+resources\data\P4L1_ Remote Procedure Calls\14 - Handling Partial Failures.srt.res , 0.004014049172102358 , 0.02137279079325935
+resources\data\P4L1_ Remote Procedure Calls\15 - RPC Failure Quiz.srt.res , 0.00998003992015968 , 0.01664145234493192
+resources\data\P4L1_ Remote Procedure Calls\16 - RPC Failure Quiz.srt.res , 0.1187214611872146 , 0.028368794326241134
+resources\data\P4L1_ Remote Procedure Calls\17 - RPC Design Choice Summary.srt.res , 0.005466970387243736 , 0.013172338090010977
+resources\data\P4L1_ Remote Procedure Calls\18 - What is SunRPC.srt.res , 0.008598452278589854 , 0.02553191489361702
+resources\data\P4L1_ Remote Procedure Calls\19 - SunRPC Overview.srt.res , 0.00648202710665881 , 0.007959067652075043
+resources\data\P4L1_ Remote Procedure Calls\20 - SunRPC  XDR Example.srt.res , 0.003856350927934442 , 0.008045733643870422
+resources\data\P4L1_ Remote Procedure Calls\21 - Compiling XDR.srt.res , 0.005676442762535478 , 0.011848341232227487
+resources\data\P4L1_ Remote Procedure Calls\22 - Summarizing XDR Compilation.srt.res , 0.010428736964078795 , 0.005492996429552321
+resources\data\P4L1_ Remote Procedure Calls\23 - Squarex Return Type Quiz.srt.res , 0.023696682464454975 , 0.004524886877828055
+resources\data\P4L1_ Remote Procedure Calls\24 - Squarex Return Type Quiz.srt.res , 0.031496062992125984 , 0.021257750221434897
+resources\data\P4L1_ Remote Procedure Calls\25 - SunRPC  Registry.srt.res , 0.025939474559361488 , 0.003948667324777887
+resources\data\P4L1_ Remote Procedure Calls\26 - SunRPC  Binding.srt.res , 0.10783055198973042 , 0.009220839096357769
+resources\data\P4L1_ Remote Procedure Calls\27 - XDR Data Types.srt.res , 0.06076854334226988 , 0.006445215666831929
+resources\data\P4L1_ Remote Procedure Calls\28 - XDR Data Types Quiz.srt.res , 0.026871401151631478 , 0.005412719891745603
+resources\data\P4L1_ Remote Procedure Calls\29 - XDR Data Types Quiz.srt.res , 0.012903225806451613 , 0.02002002002002002
+resources\data\P4L1_ Remote Procedure Calls\30 - XDR Routines.srt.res , 0.0933852140077821 , 0.002974714923153198
+resources\data\P4L1_ Remote Procedure Calls\31 - Encoding.srt.res , 0.007962840079628402 , 0.009364548494983277
+resources\data\P4L1_ Remote Procedure Calls\32 - XDR Encoding.srt.res , 0.005888125613346418 , 0.004394397143641857
+resources\data\P4L1_ Remote Procedure Calls\33 - XDR Encoding Quiz.srt.res , 0.009624639076034648 , 0.013404825737265416
+resources\data\P4L1_ Remote Procedure Calls\34 - XDR Encoding Quiz.srt.res , 0.011869436201780416 , 0.009153318077803204
+resources\data\P4L1_ Remote Procedure Calls\35 - Java RMI.srt.res , 0.009798270893371758 , 0.0016348773841961854
+resources\data\P4L1_ Remote Procedure Calls\36 - Lesson Summary.srt.res , 0.011441647597254004 , 0.01237842617152962
+resources\data\P4L1_ Remote Procedure Calls\37 - Lesson Review.srt.res , 0.027600849256900213 , 0.018823529411764704
+resources\data\P4L2_ Distributed File Systems\01 - Lesson Preview.srt.res , 0.028688524590163935 , 0.010482180293501049
+resources\data\P4L2_ Distributed File Systems\02 - Visual Metaphor.srt.res , 0.006771314250538628 , 0.002847988608045568
+resources\data\P4L2_ Distributed File Systems\03 - Distributed File Systems.srt.res , 0.014527845036319613 , 0.1881298992161254
+resources\data\P4L2_ Distributed File Systems\04 - DFS Models.srt.res , 0.010492130901823632 , 0.13193768257059396
+resources\data\P4L2_ Distributed File Systems\05 - Remote File Service Extremes.srt.res , 0.006806579693703914 , 0.021414482952944493
+resources\data\P4L2_ Distributed File Systems\06 - Remote File Service  A Compromise.srt.res , 0.054771784232365145 , 0.06671026814911707
+resources\data\P4L2_ Distributed File Systems\07 - Stateless vs Stateful File Server.srt.res , 0.00734341252699784 , 0.03459799488893257
+resources\data\P4L2_ Distributed File Systems\08 - Caching State in a DFS.srt.res , 0.010841654778887305 , 0.011176306230790724
+resources\data\P4L2_ Distributed File Systems\09 - File Caching Quiz.srt.res , 0.022909507445589918 , 0.014204545454545454
+resources\data\P4L2_ Distributed File Systems\10 - File Caching Quiz.srt.res , 0.003980099502487562 , 0.34019607843137256
+resources\data\P4L2_ Distributed File Systems\11 - File Sharing Semantics on a DFS.srt.res , 0.0030501753850846426 , 0.011278195488721804
+resources\data\P4L2_ Distributed File Systems\12 - DFS Data Structure Quiz.srt.res , 0.009419152276295133 , 0.04363636363636364
+resources\data\P4L2_ Distributed File Systems\13 - DFS Data Structure Quiz.srt.res , 0.009512485136741973 , 0.04676753782668501
+resources\data\P4L2_ Distributed File Systems\14 - File vs Directory Service.srt.res , 0.024324324324324326 , 0.057848052448900886
+resources\data\P4L2_ Distributed File Systems\15 - Replication and Partitioning.srt.res , 0.0040145985401459855 , 0.04757829881909978
+resources\data\P4L2_ Distributed File Systems\16 - Replication vs Partitioning Quiz.srt.res , 0.017679558011049725 , 0.0797918473547268
+resources\data\P4L2_ Distributed File Systems\17 - Replication vs Partitioning Quiz.srt.res , 0.00791407574901074 , 0.02855826807922616
+resources\data\P4L2_ Distributed File Systems\18 - Networking File System NFS Design.srt.res , 0.003758221108675227 , 0.008717310087173101
+resources\data\P4L2_ Distributed File Systems\19 - NFS File Handle Quiz.srt.res , 0.018741633199464525 , 0.17295597484276728
+resources\data\P4L2_ Distributed File Systems\20 - NFS File Handle Quiz.srt.res , 0.009266409266409266 , 0.06132879045996593
+resources\data\P4L2_ Distributed File Systems\21 - NFS Versions.srt.res , 0.038136747480250616 , 0.0013850415512465374
+resources\data\P4L2_ Distributed File Systems\22 - NFS Cache Consistency Quiz.srt.res , 0.017467248908296942 , 0.0877742946708464
+resources\data\P4L2_ Distributed File Systems\23 - NFS Cache Consistency Quiz.srt.res , 0.006200177147918512 , 0.00843558282208589
+resources\data\P4L2_ Distributed File Systems\24 - Sprite Distributed File System.srt.res , 0.0028328611898017 , 0.14398422090729784
+resources\data\P4L2_ Distributed File Systems\25 - Sprite DFS  Access Pattern Analysis.srt.res , 0.0027502750275027505 , 0.00915442062153698
+resources\data\P4L2_ Distributed File Systems\26 - Sprite DFS  From Analysis to Design.srt.res , 0.0055658627087198514 , 0.010567296996662959
+resources\data\P4L2_ Distributed File Systems\27 - File Access Operations in Sprite.srt.res , 0.00866482867270579 , 0.15012815818381545
+resources\data\P4L2_ Distributed File Systems\28 - Lesson Summary.srt.res , 0.01520086862106406 , 0.05223068552774755
+resources\data\P4L2_ Distributed File Systems\29 - Lesson Review.srt.res , 0.26851851851851855 , 0.8789808917197452
+resources\data\P4L3_ Distributed Shared Memory\01 - Lesson Preview.srt.res , 0.20125786163522014 , 0.06291148500365765
+resources\data\P4L3_ Distributed Shared Memory\02 - Visual Metaphor.srt.res , 0.05511580181764878 , 0.029683698296836983
+resources\data\P4L3_ Distributed Shared Memory\03 - Reviewing DFSs.srt.res , 0.021168501270110076 , 0.010771992818671455
+resources\data\P4L3_ Distributed Shared Memory\04 - Peer Distributed Applications.srt.res , 0.030312403340550572 , 0.004611837048424289
+resources\data\P4L3_ Distributed Shared Memory\05 - Distributed Shared Memory DSM.srt.res , 0.07604964351729601 , 0.1076993583868011
+resources\data\P4L3_ Distributed Shared Memory\06 - Hardware vs Software DSM.srt.res , 0.006837606837606838 , 0.15093015093015094
+resources\data\P4L3_ Distributed Shared Memory\07 - Implementing DSM Quiz.srt.res , 0.014106583072100314 , 0.37633802816901407
+resources\data\P4L3_ Distributed Shared Memory\08 - Implementing DSM Quiz.srt.res , 0.02531645569620253 , 0.09555408095554081
+resources\data\P4L3_ Distributed Shared Memory\09 - DSM Design Sharing Granularity.srt.res , 0.029370906925977377 , 0.01368421052631579
+resources\data\P4L3_ Distributed Shared Memory\10 - DSM Design Access Algorithm.srt.res , 0.15935334872979215 , 0.11493252067914671
+resources\data\P4L3_ Distributed Shared Memory\11 - DSM Design Migration vs Replication.srt.res , 0.00714711137581894 , 0.0501952035694367
+resources\data\P4L3_ Distributed Shared Memory\12 - DSM Performance Quiz.srt.res , 0.019230769230769232 , 0.04852686308492201
+resources\data\P4L3_ Distributed Shared Memory\13 - DSM Performance Quiz.srt.res , 0.07061790668348046 , 0.05315315315315315
+resources\data\P4L3_ Distributed Shared Memory\14 - DMS Design Consistency Management.srt.res , 0.005812653699977644 , 0.11779554059739167
+resources\data\P4L3_ Distributed Shared Memory\15 - DSM Architecture.srt.res , 0.002337358784573432 , 0.003197726061467401
+resources\data\P4L3_ Distributed Shared Memory\16 - Summarizing DSM Architecture.srt.res , 0.019011406844106463 , 0.10636900853578464
+resources\data\P4L3_ Distributed Shared Memory\17 - Indexing Distributed State.srt.res , 0.0025548222269533745 , 0.0021463833440652502
+resources\data\P4L3_ Distributed Shared Memory\18 - Implementing DSM.srt.res , 0.006928977975748577 , 0.031988873435326845
+resources\data\P4L3_ Distributed Shared Memory\19 - What is a Consistency Model.srt.res , 0.02118003025718608 , 0.04154045867589788
+resources\data\P4L3_ Distributed Shared Memory\20 - Strict Consistency.srt.res , 0.07509505703422054 , 0.15199398043641835
+resources\data\P4L3_ Distributed Shared Memory\21 - Sequential Consistency.srt.res , 0.04993288590604027 , 0.04960593416782568
+resources\data\P4L3_ Distributed Shared Memory\22 - Causal Consistency.srt.res , 0.0016764459346186086 , 0.01150575287643822
+resources\data\P4L3_ Distributed Shared Memory\23 - Weak Consistency.srt.res , 0.002524854031876282 , 0.014653156664068589
+resources\data\P4L3_ Distributed Shared Memory\24 - Consistency Models Quiz 1.srt.res , 0.020530367835757058 , 0.04931972789115646
+resources\data\P4L3_ Distributed Shared Memory\25 - Consistency Models Quiz 1.srt.res , 0.19334719334719336 , 0.22033898305084745
+resources\data\P4L3_ Distributed Shared Memory\26 - Consistency Models Quiz 2.srt.res , 0.11929824561403508 , 0.07948717948717948
+resources\data\P4L3_ Distributed Shared Memory\27 - Consistency Models Quiz 2.srt.res , 0.012174875484228001 , 0.034378159757330634
+resources\data\P4L3_ Distributed Shared Memory\28 - Consistency Models Quiz 3.srt.res , 0.027867095391211148 , 0.11661166116611661
+resources\data\P4L3_ Distributed Shared Memory\29 - Consistency Models Quiz 3.srt.res , 0.12482269503546099 , 0.05380710659898477
+resources\data\P4L3_ Distributed Shared Memory\30 - Consistency Models Quiz 4.srt.res , 0.2007168458781362 , 0.45170454545454547
+resources\data\P4L3_ Distributed Shared Memory\31 - Consistency Models Quiz 4.srt.res , 0.01303780964797914 , 0.06172839506172839
+resources\data\P4L3_ Distributed Shared Memory\32 - Consistency Models Quiz 5.srt.res , 0.015113350125944584 , 0.8441926345609065
+resources\data\P4L3_ Distributed Shared Memory\33 - Consistency Models Quiz 5.srt.res , 0.15104166666666666 , 0.8950276243093923
+resources\data\P4L3_ Distributed Shared Memory\34 - Lesson Summary.srt.res , 0.23206106870229007 , 0.04722792607802875
+resources\data\P4L3_ Distributed Shared Memory\35 - Lesson Review.srt.res , 0.03773584905660377 , 0.8789808917197452
+resources\data\P4L4_ Datacenter Technologies\01 - Lesson Preview.srt.res , 0.08911449520586577 , 0.020947630922693267
+resources\data\P4L4_ Datacenter Technologies\02 - Data Center Quiz.srt.res , 0.1988071570576541 , 0.1309255079006772
+resources\data\P4L4_ Datacenter Technologies\03 - Data Center Quiz.srt.res , 0.0028922631959508315 , 0.005598320503848845
+resources\data\P4L4_ Datacenter Technologies\04 - Internet Services.srt.res , 0.005642633228840125 , 0.0031565656565656565
+resources\data\P4L4_ Datacenter Technologies\05 - Internet Service Architectures.srt.res , 0.002508361204013378 , 0.008726003490401396
+resources\data\P4L4_ Datacenter Technologies\06 - Homogeneous Architectures.srt.res , 0.00645682001614205 , 0.001375515818431912
+resources\data\P4L4_ Datacenter Technologies\07 - Heterogeneous Architectures.srt.res , 0.07868190988567586 , 0.002621231979030144
+resources\data\P4L4_ Datacenter Technologies\08 - Homogeneous Design Quiz.srt.res , 0.012658227848101266 , 0.01953125
+resources\data\P4L4_ Datacenter Technologies\09 - Homogeneous Design Quiz.srt.res , 0.02145214521452145 , 0.01448400724200362
+resources\data\P4L4_ Datacenter Technologies\10 - Heterogeneous Design Quiz.srt.res , 0.3125 , 0.012568735271013355
+resources\data\P4L4_ Datacenter Technologies\11 - Heterogeneous Design Quiz.srt.res , 0.005259697567389875 , 0.008866995073891626
+resources\data\P4L4_ Datacenter Technologies\12 - Scale Out Limitations Quiz.srt.res , 0.1121251629726206 , 0.014434643143544507
+resources\data\P4L4_ Datacenter Technologies\13 - Scale Out Limitations Quiz.srt.res , 0.022222222222222223 , 0.008602150537634409
+resources\data\P4L4_ Datacenter Technologies\14 - Cloud Computing Poster Child Animoto.srt.res , 0.0016184503338053813 , 0.004692999608916699
+resources\data\P4L4_ Datacenter Technologies\15 - Cloud Computing Requirements.srt.res , 0.035561005518087066 , 0.0033946251768033945
+resources\data\P4L4_ Datacenter Technologies\16 - Cloud Computing Overview.srt.res , 0.025511916750587445 , 0.004850444624090542
+resources\data\P4L4_ Datacenter Technologies\17 - Why Does Cloud Computing Work.srt.res , 0.017605633802816902 , 0.011325028312570781
+resources\data\P4L4_ Datacenter Technologies\18 - Cloud Computing Vision.srt.res , 0.006717044500419815 , 0.03192934782608696
+resources\data\P4L4_ Datacenter Technologies\19 - Cloud Computing Definitions Quiz.srt.res , 0.007159904534606206 , 0.042682926829268296
+resources\data\P4L4_ Datacenter Technologies\20 - Cloud Computing Definitions Quiz.srt.res , 0.00904977375565611 , 0.08149779735682819
+resources\data\P4L4_ Datacenter Technologies\21 - Cloud Deployment Models.srt.res , 0.03145478374836173 , 0.0262891809908999
+resources\data\P4L4_ Datacenter Technologies\22 - Cloud Service Models.srt.res , 0.009389671361502348 , 0.0156794425087108
+resources\data\P4L4_ Datacenter Technologies\23 - Requirements for the Cloud.srt.res , 0.006937561942517344 , 0.050983899821109124
+resources\data\P4L4_ Datacenter Technologies\24 - Cloud Failure Probability Quiz.srt.res , 0.016143497757847534 , 0.19176232275489535
+resources\data\P4L4_ Datacenter Technologies\25 - Cloud Failure Probability Quiz.srt.res , 0.010482965181579932 , 0.0
+resources\data\P4L4_ Datacenter Technologies\26 - Cloud Enabling Technologies.srt.res , 0.00555415299166877 , 0.0
+resources\data\P4L4_ Datacenter Technologies\27 - The Cloud as a Big Data Engine.srt.res , 0.01608086377211119 , 0.0

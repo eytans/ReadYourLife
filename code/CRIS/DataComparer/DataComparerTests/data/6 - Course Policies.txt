@@ -1,0 +1,30 @@
+Next, I want to make sure you're aware of the online wiki for this course.
+It has information such as the class syllabus, lecture schedule,
+project schedule, various resource links that are useful for the class.
+It also has grading criteria and other policies that are valid for the course.
+Let me now explain the grading policy in this class.
+Your grade will roughly be split between the theoretical and the practical part.
+The theoretical part, you will have two exams, a mid-term and a final.
+The final will not be cumulative and
+these will be worth 25 and 30% of your grade.
+Your projects will be worth 40% of your grade, so
+these are your programming assignments.
+and you will have 5% of your grade come from class participation.
+Given that the class is online, for class participation, we expect you to
+participate in Piazza, the online forum that we'll use in this class.
+How well you answer to questions posted by other students,
+how often you raise an interesting and useful topics for
+discussion in the forum, and also how well you do on the quizzes on
+the Audacity platform that will be incorporated in the class lessons.
+You can always monitor your grades in T-Square.
+For the exams, we'll use an online service called ProcterU.
+As the name suggests, this is a service that proctors you
+during the examination and insures academic honesty.
+The tests are to be taken individually, and
+they will be closed notes, closed book exams.
+For the projects, you can work in teams.
+Across teams, you can have high level discussions about your design approach or
+implementation approach.
+But, you're not allowed to share code, results, text for the final report.
+You should have these discussions thru Piazza, so
+both the core staff, as well other students can help you.

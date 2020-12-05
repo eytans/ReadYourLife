@@ -1,0 +1,15 @@
+Welcome to Graduate Introduction to Operating Systems.
+My name is Ada Gavrilovska, and I will be your instructor for this course.
+I've been a research faculty at Georgia Tech since 2004 when I
+finished my PhD here.
+And in these years, I've been involved in and led a number of research projects
+in the area of systems that specialize on topics related to operating systems,
+virtualization, or other aspects of system software.
+In these years, I've also taught a number of times at Georgia Tech.
+This particular class, I've taught it over a dozen times, and over the years,
+we've evolved it to update it to reflect any changes in technology or
+any changes in the student interest or the student population in general.
+I've also been teaching the advanced operating systems class and
+the special topics class in high performance communication.
+For additional information about me, you can look at my website, and
+the link is provided off of the instructor notes.
